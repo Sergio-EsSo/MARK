@@ -1,0 +1,46 @@
+h2{
+	color: hotpink;
+	font-family: Times New Roman, serif;
+	font-style: italic;
+	font-weight: bold;
+	border-bottom: 2px solid turquoise;
+	padding-bottom: 5px;
+	margin-top: 20px;
+	background-color: indianred;
+}
+
+p{
+	color: peru;
+	font-family: sans-serif;
+	line-height: 1.6;
+	font-size: 16px;
+	margin-bottom: 15px;
+	background-color: whitesmoke;
+	text-indent: 30px;
+}
+
+#izq{text-align: left; text-decoration: underline; text-transform: capitalize;}
+#cen{text-align: center; text-decoration: line-through; text-transform: uppercase;}
+#der{text-align: right; text-decoration: overline; text-transform: lowercase;}
+
+table, tr, td{
+	border: 1px solid blue;
+	width: 40%;
+	margin: auto;
+	border-collapse: collapse;
+	text-align: center;
+	font-size: 23px;
+}
+
+a:hover{
+	letter-spacing: 2px;
+	font-weight: bold;
+	color: red;
+}
+
+a:visited{
+	text-transform: uppercase;
+	font-weight: bold;
+	color: purple;
+	background-color: yellowgreen;
+}
