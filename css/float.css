@@ -1,0 +1,23 @@
+h2, p{
+    margin: 25px;
+    font-family: sans-serif;
+    font-size: 1.2em;
+}
+
+div{
+    width: 80%;
+    margin: auto;
+    border: 2px solid rgb(144, 109, 179);
+    background-color: rgb(206, 226, 243);
+}
+
+img{
+    float: right;
+    margin: 15px;
+    max-width: 80%;
+    max-height: 200px;
+}
+
+.floatstop{
+    float: clear;
+}
