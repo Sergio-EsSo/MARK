@@ -15,9 +15,9 @@ img{
     float: right;
     margin: 15px;
     max-width: 80%;
-    max-height: 200px;
+    max-height: 200;
 }
 
 .floatstop{
-    float: clear;
+    clear: both;
 }
