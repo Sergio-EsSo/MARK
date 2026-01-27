@@ -1,0 +1,61 @@
+h2{
+    color: rgb(30, 30, 200);
+    font-family: sans-serif;
+    margin: 10px 255px 8px 30px;
+    border: 2px solid #23618a;
+    background-color: #abc1d3;;
+}
+p{
+    color: rgb(100, 100, 200);
+    font-family: sans-serif;
+    margin: 3px 30px;
+    padding: 10px;
+    font-size: 6px;
+    border: 2px solid #23618a;
+    background-color: #abc1d3;
+}
+
+#box1{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 30%;
+    background-color: red;
+}
+#box2{
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    width: 40%;
+    background-color: blue;
+}
+#box3{
+    position: absolute;
+    bottom: 50px;
+    right: 50px;
+    width: 30%;
+    background-color: yellow;
+}
+#box4{
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    width: 40%;
+    background-color: green;
+}
+
+#dog1{
+    position: relative;
+    left: 350px;
+    bottom: 150px;
+}
+#dog2{
+    position: relative;
+    left: 350px;
+    top: 150px;
+}
+#dog3{
+    position: relative;
+    right: 350px;
+    top: 150px;
+}
