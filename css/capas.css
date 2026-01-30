@@ -1,0 +1,40 @@
+h2{
+    color: rgb(30, 30, 200);
+    font-family: sans-serif;
+    margin: 10px 255px 8px 30px;
+    border: 2px solid #23618a;
+    background-color: #abc1d3;;
+}
+p{
+    color: rgb(100, 100, 200);
+    font-family: sans-serif;
+    margin: 3px 30px;
+    padding: 10px;
+    font-size: 6px;
+    border: 2px solid #23618a;
+    background-color: #abc1d3;
+}
+#oros{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    z-index: 1;
+}
+#copas{
+    position: absolute;
+    left: 150px;
+    top: 150px;
+    z-index: 2;
+}
+#espadas{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    z-index: 3;
+}
+#bastos{
+    position: absolute;
+    left: 250px;
+    top: 250px;
+    z-index: 4;
+}
