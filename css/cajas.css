@@ -1,0 +1,47 @@
+h2{
+    font-size: 1.5em;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+
+.anchas{
+    border: 1px solid;
+    width: 70%;
+    margin: 30px 1px;
+    position: relative;
+    left: 10%;
+    font-weight: bold;
+    padding: 10px;
+}
+
+#uno{
+    border: 1px dotted red;
+    float: left;
+    width: 20%;
+    margin: 30px 1px;
+    position: relative;
+    left: 10%;
+    font-weight: bold;
+    padding: 10px;
+}
+#dos{
+    border: 1px dotted blue;
+    float: left;
+    width: 20%;
+    margin: 30px 1px;
+    position: relative;
+    left: 15%;
+    font-weight: bold;
+    padding: 10px;
+}
+#tres{
+    border: 1px dotted green;
+    float: left;
+    width: 20%;
+    margin: 30px 1px;
+    position: relative;
+    left: 20%;
+    font-weight: bold;
+    padding: 10px;
+}
