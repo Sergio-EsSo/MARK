@@ -45,3 +45,14 @@ h2{
     font-weight: bold;
     padding: 10px;
 }
+
+.estrechas{
+    border: 1px dotted black;
+    width: 15%;
+    margin: 30px 0.5% 30px 10%;
+    /*position: relative;
+    left: 10%;*/
+    float: left;
+    font-weight: bold;
+    padding: 10px;
+}
