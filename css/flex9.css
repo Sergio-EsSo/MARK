@@ -1,0 +1,9 @@
+/*estilos para el contenedor*/
+div{
+    display: flex;
+}
+p{
+    flex-basis: 50%;
+    border: 2px solid hotpink;
+    margin: 10px;
+}

@@ -1,0 +1,13 @@
+/*estilos para el contenedor*/
+div{
+    display: flex;
+}
+p{
+    width: 100px;
+    border: 1px solid black;
+    margin: 2px;
+}
+
+p.primero{
+    order: -1;
+}
