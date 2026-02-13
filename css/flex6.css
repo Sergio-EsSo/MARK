@@ -1,0 +1,25 @@
+/*estilos para el contenedor*/
+div{
+    display: flex;
+    flex-wrap: wrap;
+}
+p{
+    width: 100px;
+    border: 1px solid black;
+    margin: 2px;
+}
+p.pan{
+    background-color: peru;
+}
+p.tomate{
+    background-color: red;
+}
+p.lechuga{
+    background-color: green;
+}
+p.carne{
+    background-color: brown;
+}
+p.queso{
+    background-color: yellow;
+}
