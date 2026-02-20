@@ -1,0 +1,11 @@
+/*12 flex automático*/
+
+div{
+    display: flex;
+}
+p{
+    flex: auto;
+    border: 2px solid hotpink;
+    margin: 10px;
+    padding: 5px;
+}

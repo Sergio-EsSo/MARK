@@ -1,0 +1,15 @@
+/*s h ri k nkn nk*/
+
+div{
+    display: flex;
+}
+p{
+    flex-shrink: 1;
+    border: 2px solid hotpink;
+    margin: 10px;
+    padding: 5px;
+}
+p.menor{
+    flex-shrink: 2;
+    border: 2px solid red;
+}
