@@ -1,0 +1,16 @@
+/*estilos de flex 16 de la direccion secundaria (varias lineas):
+align-content*/
+div{
+    display: flex;
+    height: 10em;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    background-color: #eee;
+    border: 3px ridge green;
+}
+p{
+    width: 200px;
+    border: 2px solid red;
+    margin: 10px;
+    padding: 5px;
+}
